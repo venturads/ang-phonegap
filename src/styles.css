@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.mat-bottom-sheet-container {
+  min-width: 100vw !important;
+}
+/* .mat-bottom-sheet-container-medium {
+  min-width: 100vw !important;
+} */
